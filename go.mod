@@ -8,7 +8,7 @@ require (
 	github.com/containerd/containerd v1.5.9 // indirect
 	github.com/containers/libtrust v0.0.0-20190913040956-14b96171aa3b
 	github.com/containers/ocicrypt v1.1.2
-	github.com/containers/storage v1.38.0
+	github.com/containers/storage v1.38.1
 	github.com/docker/distribution v2.7.1+incompatible
 	github.com/docker/docker v20.10.12+incompatible
 	github.com/docker/docker-credential-helpers v0.6.4
@@ -18,7 +18,7 @@ require (
 	github.com/gorilla/mux v1.7.4 // indirect
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/imdario/mergo v0.3.12
-	github.com/klauspost/compress v1.14.1
+	github.com/klauspost/compress v1.14.2
 	github.com/klauspost/pgzip v1.2.5
 	github.com/manifoldco/promptui v0.9.0
 	github.com/opencontainers/go-digest v1.0.0
